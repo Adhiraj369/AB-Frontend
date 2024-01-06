@@ -374,7 +374,7 @@
     transform: translateX(2rem);
   }
 
-  */ input:checked~.category__slide {
+  input:checked~.category__slide {
     transform: translateX(0);
     /* width: 30%; */
   }
